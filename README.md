@@ -9,4 +9,5 @@ The project was to create an interpreter for the Jedi language. Students were gi
 This project requires the use of scala-parser-combinators_2.12-1.0.5.jar file.
 
 This project was NOT UPLOADED SO OTHER STUDENTS COULD CHEAT ON THEIR PROJECT. If you are currently enrolled in CS152 and are supposed
-to implement this project, please refrain from submitting files and code used in this repository.
+to implement this project, please refrain from submitting files and code used in this repository:
+You will not learn anything by copying code you don't understand, you put yourself at risk of receiving severe disciplinary action if you're caught (which isn’t all that unlikely, as the professor will likely know about this repository), and you’re only delaying the inevitable.
