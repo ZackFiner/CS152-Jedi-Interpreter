@@ -1,6 +1,8 @@
 # CS152-Jedi-Interpreter
 This project was created for CS152 (Programming paradigms) and constituted the bulk of the course work in the latter half of the semester.
 
+Jedi is an experimental functional language which features short circuit evaluation, lambda functions, and lazy evaluation.
+
 The project was to create an interpreter for the Jedi language. Students were given starter code and a set of UML diagrams,
 and were asked to use Scala's built in parsing library as well as the material they had learned over the course of the
 semester to implement the interpreter.
